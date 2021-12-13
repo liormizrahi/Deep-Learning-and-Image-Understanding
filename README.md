@@ -1,5 +1,5 @@
 # Deep-Learning-and-Image-Understanding
-This repository contains the advanced assignments of the course "Deep Learning and Image Understanding" at Reichman University (formerly IDC) teached by Yacov Hel-Or (toky).
+This repository contains the advanced assignments of the course CS3598 "Deep Learning and Image Understanding" at Reichman University (formerly IDC) teached by Yacov Hel-Or (toky).
 
 This course introduces the basic concepts and tools for image understanding using Deep Learning.
 
